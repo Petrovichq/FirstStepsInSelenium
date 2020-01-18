@@ -1,0 +1,10 @@
+[1217/213334.269:ERROR:process_info.cc(359)] UncheckedAllocate
+[1219/183751.015:ERROR:process_info.cc(359)] UncheckedAllocate
+[1219/183943.403:ERROR:process_info.cc(359)] UncheckedAllocate
+[1219/183943.470:ERROR:process_info.cc(359)] UncheckedAllocate
+[1219/183943.477:ERROR:http_transport_win.cc(276)] WinHttpSendRequest: Операция успешно завершена. (0x0)
+[1229/144208.289:ERROR:process_info.cc(359)] UncheckedAllocate
+[1229/194016.243:ERROR:process_info.cc(359)] UncheckedAllocate
+[1229/194016.267:ERROR:process_info.cc(359)] UncheckedAllocate
+[1229/194038.948:ERROR:crashpad_client_win.cc(505)] CreateProcess: Файл подкачки слишком мал для завершения операции. (0x5AF)
+[0102/181419.297:ERROR:process_info.cc(359)] UncheckedAllocate
